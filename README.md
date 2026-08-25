@@ -98,3 +98,4 @@ a crash mid-write can't corrupt the on-disk state.
   lowest-priority job to free up space (`extract_min`) — a natural fit
   for a queue that needs both ends, like this one.
 
+<img width="540" height="389" alt="image" src="https://github.com/user-attachments/assets/d2af8156-2e72-4c1a-a0b8-221876e4e2fd" />
