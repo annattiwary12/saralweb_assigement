@@ -98,14 +98,3 @@ a crash mid-write can't corrupt the on-disk state.
   lowest-priority job to free up space (`extract_min`) — a natural fit
   for a queue that needs both ends, like this one.
 
-## Create a new repository on the command line
-
-```bash
-echo "# saralweb_assigement" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/annattiwar12/saralweb_assigement.git
-git push -u origin main
-```
